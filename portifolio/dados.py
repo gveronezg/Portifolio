@@ -15,10 +15,10 @@ habilidades = {
 
 projetos = {
     'projeto1': {
-        'titulo': '1º Projeto',
-        'descricao': 'Descrição do 1º projeto',
-        'tecnologias': 'Python, Django, HTML, CSS, JavaScript',
-        'link': 'link do 1º projeto (GitHub)',
+        'titulo': 'Site Profissional para Oftalmologista',
+        'descricao': 'Desenvolvimento de um site para um oftalmologista onde sua qualificação e trabalho são expostos para futuros pacientes.',
+        'tecnologias': 'HTML, CSS, Registro, Netlify',
+        'link': 'https://drmuriloramos.com.br',
     },
     'projeto2': {
         'titulo': '2º Projeto',
